@@ -1,0 +1,513 @@
+{
+  "metadata": {
+    "total_questions": 62,
+    "sources": [
+      "HCD Toolkit - Facilitators",
+      "HCD Toolkit - School Leaders",
+      "HCD Additional Q&A",
+      "HCD Toolkit - Educators"
+    ],
+    "categories": [
+      "iteration_balance",
+      "time_constraints",
+      "team_selection",
+      "facilitation_confidence",
+      "observable_behaviors",
+      "value_proposition",
+      "leadership_support",
+      "structural_support",
+      "confidence_areas",
+      "brainstorming",
+      "leadership_participation_challenges",
+      "prototype_elements",
+      "trust_building",
+      "problem_validation",
+      "youth_involvement",
+      "listening_design",
+      "idea_selection",
+      "power_dynamics",
+      "learning_outcomes_definition",
+      "workload_management",
+      "team_power_dynamics",
+      "progress_monitoring",
+      "facilitation_preparation",
+      "assessment_methods",
+      "school_strengths",
+      "problem_framing",
+      "success_definition",
+      "participation_validation",
+      "feedback_rejection",
+      "design_mindsets",
+      "creativity",
+      "leadership_participation_benefits",
+      "co_creation",
+      "inequality_assessment",
+      "equity_implementation",
+      "problem_identification",
+      "collaboration_challenges",
+      "improvement_areas",
+      "idea_generation",
+      "innovation",
+      "community_engagement",
+      "creativity_barriers",
+      "bias_management",
+      "mindset",
+      "learning_outcomes",
+      "communication_channels",
+      "equity",
+      "diversity_inclusion",
+      "design_scheduling",
+      "scheduling_support",
+      "root_cause_analysis",
+      "learning_integration",
+      "prototyping",
+      "mindset_comfort",
+      "idea_selection_criteria",
+      "participant_management",
+      "key_insights",
+      "team_improvement",
+      "methodology_choice",
+      "emotional_connection",
+      "idea_attachment",
+      "school_challenges"
+    ],
+    "description": "Complete Human-Centered Design Q&A dataset extracted from HCD documents",
+    "created_for": "training dataset generation"
+  },
+  "qa_pairs": [
+    {
+      "id": 1,
+      "question": "How do you build trust with communities or school actors during a design process?",
+      "answer": "Trust takes time --- and attention. Start by showing up consistently and listening without rushing to fix. Be transparent about what you know and what you don't. Are your actions matching your intentions? Who are you accountable to, and how? Sometimes trust is built not through big promises, but through small, respectful interactions repeated over time.",
+      "source": "HCD Additional Q&A",
+      "category": "trust_building"
+    },
+    {
+      "id": 2,
+      "question": "How can we help people adopt the right mindset for a Human-Centered Design (HCD) process?",
+      "answer": "Mindset isn't taught --- it's nurtured. Start by creating a space where curiosity is valued more than certainty, and listening is more important than solving. Ask: Are we here to learn, or to prove we already know? Encourage people to slow down, be present with complexity, and welcome discomfort as a signal that growth is happening. When people feel safe to be vulnerable and open to perspectives beyond their own, that's when the HCD mindset starts to take root.",
+      "source": "HCD Additional Q&A",
+      "category": "mindset"
+    },
+    {
+      "id": 3,
+      "question": "What are some ways that the equity lens can be compromised within a working group?",
+      "answer": "Equity can be compromised quietly --- not through intent, but through habits. Who speaks most? Whose ideas get built on? Are certain perspectives dismissed as \"too emotional\" or \"not strategic\"? Power can hide in tone, timing, and who frames the problem. Ask yourself: Are we truly sharing power, or just inviting voices into a space already shaped by others? Equity means more than inclusion --- it means rebalancing influence, attention, and authorship. Watch for when decisions get made quickly, or when \"efficiency\" becomes an excuse to move past discomfort.",
+      "source": "HCD Additional Q&A",
+      "category": "equity"
+    },
+    {
+      "id": 4,
+      "question": "Why should I choose HCD to leverage ideas and solutions, to problems affecting communities?",
+      "answer": "HCD helps build the capacity, skills and competencies in designing innovative solutions for real social problems. Creates the space for creative ideation, design, testing and iteration of those solutions, until the best version is achieved.",
+      "source": "HCD Additional Q&A",
+      "category": "methodology_choice"
+    },
+    {
+      "id": 5,
+      "question": "What is the added value of using HCD?",
+      "answer": "The added value of using Human-Centered Design (HCD) lies in its ability to place people's real needs, experiences, and aspirations at the heart of the problem-solving process. HCD helps generate more relevant, inclusive, and sustainable solutions by involving users early and often. It fosters empathy, encourages creativity, and reduces the risk of investing in ideas that don't work in practice. Ultimately, HCD leads to greater impact because solutions are co-created with those who will use or be affected by them.",
+      "source": "HCD Additional Q&A",
+      "category": "value_proposition"
+    },
+    {
+      "id": 6,
+      "question": "What is it that people can learn from HCD training and process?",
+      "answer": "HCD training offers an introduction to the human-centered design process and methods, while also preparing participants to apply them in practice. It includes hands-on activities that draw inspiration from real people facing real challenges. It equips participants with the tools to conduct interviews and observations in real-world settings, helping them understand the context and define the underlying problems. It encourages the generation of a wide range of potential solutions through creative brainstorming techniques. It supports the development and testing of tangible ideas via rapid prototyping, incorporating feedback directly from users in real-life environments.",
+      "source": "HCD Additional Q&A",
+      "category": "learning_outcomes"
+    },
+    {
+      "id": 7,
+      "question": "Why is it important to listen deeply to the people you're designing with, rather than just for?",
+      "answer": "What do you think might change in your approach if you saw the people you're designing for as partners rather than beneficiaries? Try spending time simply observing and listening --- not to validate your assumptions, but to challenge them. What surprised you most?",
+      "source": "HCD Additional Q&A",
+      "category": "listening_design"
+    },
+    {
+      "id": 8,
+      "question": "How do you know if the people affected by the problem feel heard in the process?",
+      "answer": "Try pausing and asking: What have we learned from those closest to the problem? Have you simply collected data, or have you created space for people to influence the direction of your design? Reflect on who's been shaping the decisions --- and who hasn't. Sometimes, feeling heard is less about being asked questions and more about seeing one's words reflected in what gets built.",
+      "source": "HCD Additional Q&A",
+      "category": "participation_validation"
+    },
+    {
+      "id": 9,
+      "question": "What questions can help uncover the root causes behind a visible challenge?",
+      "answer": "A useful approach is to keep asking \"Why?\" until the answer gets uncomfortable or points to a systemic issue. Is the challenge just a symptom of something deeper? What structural forces might be shaping this reality --- and for whom? Don't settle for the surface: trace the patterns, notice the silences, and see if the same issue shows up in different forms across different groups.",
+      "source": "HCD Additional Q&A",
+      "category": "root_cause_analysis"
+    },
+    {
+      "id": 10,
+      "question": "How can you tell when a problem is well-framed, before designing the first iteration of the solution?",
+      "answer": "Imagine you're explaining the problem to someone outside your context --- would they see the same opportunity or tension? A good problem frame should invite solutions, not close them off. Can you spot if your current framing is too narrow, or maybe too vague?",
+      "source": "HCD Additional Q&A",
+      "category": "problem_framing"
+    },
+    {
+      "id": 11,
+      "question": "How can you be sure that the problem is real and well-formulated?",
+      "answer": "A problem is real when it is lived, not just observed from the outside. Have you heard it in people's own words, or only interpreted it through your lens? A well-formulated problem often carries tension --- it feels complex, rooted in context, and connected to deeper systems. If it sounds too neat, it might be too abstract. Try reframing it with the people who live it. A good starting point is to ask: Who is experiencing this problem, and how do they describe it themselves? Who says this is a problem --- and based on what experience? Have you heard different perspectives on it, or just one version? Try explaining the problem without using technical or project language --- does it still make sense? And if you reframed it in three different ways, which one would spark more meaningful action?",
+      "source": "HCD Additional Q&A",
+      "category": "problem_validation"
+    },
+    {
+      "id": 12,
+      "question": "What signs should you look for to deepen your understanding of the context and how inequalities are expressed?",
+      "answer": "Begin by noticing who's visible --- and who's not. Whose voices are missing from the room, the data, or the story? Walk through the community or school with fresh eyes: where do resources cluster, and where do they fall short? Observe patterns of participation, silence, access, and exclusion. What do you feel uncomfortable asking about --- and why? Sometimes, the key to understanding inequality lies in what remains unspoken.",
+      "source": "HCD Additional Q&A",
+      "category": "inequality_assessment"
+    },
+    {
+      "id": 13,
+      "question": "How can you ensure the final solution reflects the diversity of lived experiences?",
+      "answer": "Look closely: whose perspectives shaped the final design --- and whose didn't? Is there room in your solution for different ways of seeing, doing, and being? Diversity isn't just about who's present, but whose input holds weight. Sometimes, including lived experience means redesigning not just the product, but the way decisions are made.",
+      "source": "HCD Additional Q&A",
+      "category": "diversity_inclusion"
+    },
+    {
+      "id": 14,
+      "question": "What makes a prototype truly useful for learning?",
+      "answer": "A good prototype isn't about impressing --- it's about learning quickly. Ask: What am I trying to test or understand with this version? Have you made it simple enough for others to react to honestly? Are you testing an assumption, a behaviour, or a feeling? Sometimes, the most useful prototype is the one that fails --- because it shows you what truly matters to people.",
+      "source": "HCD Additional Q&A",
+      "category": "prototyping"
+    },
+    {
+      "id": 15,
+      "question": "How can you unleash and trigger people's imagination and creativity?",
+      "answer": "When was the last time your team played, imagined, or laughed during the design process? Creativity needs psychological safety. What rituals or prompts could help people step outside their usual roles? Could you start with \"What if...\" questions or use storytelling, drawing, or role-play to explore ideas? Sometimes, unlocking creativity means asking people to think beyond what's likely --- and into what's possible.",
+      "source": "HCD Additional Q&A",
+      "category": "creativity"
+    },
+    {
+      "id": 16,
+      "question": "What might be limiting the creativity of your ideas?",
+      "answer": "Sometimes our own assumptions and routines create invisible constraints. When was the last time you purposely generated \"wild\" or \"impossible\" ideas? What would happen if you suspended judgment just for 15 minutes and let imagination lead?",
+      "source": "HCD Additional Q&A",
+      "category": "creativity_barriers"
+    },
+    {
+      "id": 17,
+      "question": "What is innovation or innovative solutions?",
+      "answer": "Innovation isn't just about doing something new --- it's about doing something new that creates meaningful value. So ask yourself: New for whom? Useful in what way? Sometimes innovation is high-tech, but often it's low-tech and high-impact --- a shift in mindset, a way of organising, or a small adaptation that makes something more accessible or dignified. In your context, is the innovation helping people do things they couldn't do before? Is it grounded in reality, but open to reimagining it?",
+      "source": "HCD Additional Q&A",
+      "category": "innovation"
+    },
+    {
+      "id": 18,
+      "question": "How do you know which ideas are worth testing?",
+      "answer": "Before choosing, ask yourself: which of these ideas makes you a little uncomfortable --- and why? Often the most powerful ideas feel risky. Which ones might create real change, not just be easy wins? And who else could help you decide?",
+      "source": "HCD Additional Q&A",
+      "category": "idea_selection"
+    },
+    {
+      "id": 19,
+      "question": "How do you balance realism, effectiveness, and efficiency with ambition when iterating solutions?",
+      "answer": "Ask yourself: What's the smallest version of this big idea we can try right now? Iteration isn't about shrinking ambition --- it's about testing its potential in real conditions. Where can you reduce complexity without losing meaning? And how will you know if a solution is working --- not just efficiently, but equitably? Sometimes, moving fast means moving in small steps, guided by learning rather than perfection.",
+      "source": "HCD Additional Q&A",
+      "category": "iteration_balance"
+    },
+    {
+      "id": 20,
+      "question": "What are you learning from the people who are rejecting your prototype or idea?",
+      "answer": "Resistance can be a gift. Instead of convincing people, what if you asked: \"What's not working for you here?\" or \"What would make this better for you?\" Sometimes rejection holds the seed of a better design. What feedback are you still avoiding?",
+      "source": "HCD Additional Q&A",
+      "category": "feedback_rejection"
+    },
+    {
+      "id": 21,
+      "question": "How do power dynamics show up in your HCD process?",
+      "answer": "Whose voices are loudest in your sessions? Who's being heard --- and who's being quietly excluded? Reflecting on power doesn't weaken the design --- it makes it more honest and inclusive. What small shift could redistribute voice in your next step?",
+      "source": "HCD Additional Q&A",
+      "category": "power_dynamics"
+    },
+    {
+      "id": 22,
+      "question": "Are you solving the right problem --- or just the most visible one?",
+      "answer": "It's easy to react to symptoms. But what's really causing what you see? Ask \"why?\" at least five times, and see where it leads you. What if the real opportunity lies behind the problem you first identified?",
+      "source": "HCD Additional Q&A",
+      "category": "problem_identification"
+    },
+    {
+      "id": 23,
+      "question": "How are young people or community members shaping the solution --- not just giving input?",
+      "answer": "In co-creation, contribution is not consultation. Who is truly co-owning the idea with you? What would it take to hand over some creative control? Where could you let go more?",
+      "source": "HCD Additional Q&A",
+      "category": "co_creation"
+    },
+    {
+      "id": 24,
+      "question": "What does success look like --- and who defines it?",
+      "answer": "Are you measuring success in ways that matter to the community or to your funders? What might happen if your indicators came from the people most affected by the issue? How would your solution evolve if success was defined locally?",
+      "source": "HCD Additional Q&A",
+      "category": "success_definition"
+    },
+    {
+      "id": 25,
+      "question": "What kind of learning are you building into your design process?",
+      "answer": "Design isn't linear --- but are you making space to stop, reflect, and adjust along the way? What feedback loops do you have in place? And are you capturing learning for others to build on, or just for yourself?",
+      "source": "HCD Additional Q&A",
+      "category": "learning_integration"
+    },
+    {
+      "id": 26,
+      "question": "What should I do if I feel insecure or lack confidence when facilitating an HCD group?",
+      "answer": "Start by being honest with yourself --- insecurity can be a sign you care. You don't need to have all the answers. Focus on creating space for others to shine. Ask: Can I lead by listening? Can I make my uncertainty an invitation, not a barrier?",
+      "source": "HCD Additional Q&A",
+      "category": "facilitation_confidence"
+    },
+    {
+      "id": 27,
+      "question": "How can I best prepare to facilitate a group through ideation, prototyping, testing, and iteration?",
+      "answer": "Know the process, but don't cling to it. Prepare frameworks, not scripts. Ask yourself: What's the minimum structure people need to feel safe enough to explore? What questions will unlock their thinking, not guide it too tightly?",
+      "source": "HCD Additional Q&A",
+      "category": "facilitation_preparation"
+    },
+    {
+      "id": 28,
+      "question": "How can I manage participants' discomfort in an HCD process and encourage their participation?",
+      "answer": "Discomfort isn't the enemy --- silence is. Acknowledge the tension without rushing to fix it. Ask: What might this discomfort be telling us? People engage when they feel seen and respected, not when they're pushed.",
+      "source": "HCD Additional Q&A",
+      "category": "participant_management"
+    },
+    {
+      "id": 29,
+      "question": "How should I deal with biased or prejudiced comments in the group?",
+      "answer": "Bias often surfaces quietly --- in jokes, assumptions, or who gets interrupted. When it happens, don't ignore it. Your silence could feel like agreement. Instead, pause the flow gently but clearly. Ask: Can we take a moment to reflect on what was just said? How might that comment land for someone with a different lived experience? You're not there to shame, but to invite reflection. If the space is safe enough, bring it back to values: Are we designing for dignity? Are we listening with care? Use it as a learning moment --- for everyone. Sometimes the most powerful intervention is a respectful question that stops a harmful pattern from continuing unnoticed.",
+      "source": "HCD Additional Q&A",
+      "category": "bias_management"
+    },
+    {
+      "id": 30,
+      "question": "How can we stimulate a mindset that generates ideas?",
+      "answer": "Creativity needs safety. People generate ideas more freely when they're not afraid of sounding silly or being wrong. Ask: What would you try if you knew you wouldn't be judged? Also, shift the energy --- try standing up, drawing, or using metaphors. Curiosity is contagious. If you model openness, others will follow.",
+      "source": "HCD Additional Q&A",
+      "category": "idea_generation"
+    },
+    {
+      "id": 31,
+      "question": "What are the rules of a good brainstorming session?",
+      "answer": "It's not about loud voices or fast thinking. It's about building ideas, not filtering them too soon. Key principles? Defer judgment, go for quantity, build on others' ideas, and stay visual. But here's the real rule: Does everyone feel they can speak --- and be heard? If not, the session isn't working yet.",
+      "source": "HCD Additional Q&A",
+      "category": "brainstorming"
+    },
+    {
+      "id": 32,
+      "question": "How can I support the selection of the most promising ideas?",
+      "answer": "Start by asking: Best for what? Push the group to define clear criteria --- is it feasibility, impact, originality, equity? Then help people test assumptions: What evidence supports this idea? What voices haven't we heard yet? Good selection isn't just about judgment --- it's about alignment.",
+      "source": "HCD Additional Q&A",
+      "category": "idea_selection_criteria"
+    },
+    {
+      "id": 33,
+      "question": "When building a prototype, what key elements should be considered?",
+      "answer": "A prototype is not a mini-version of the final product --- it's a question in physical form. What are you trying to learn? What's the fastest, cheapest way to test that with real users? Focus on clarity of purpose, simplicity, and testability. Ask: What will people react to --- not just understand, but feel?",
+      "source": "HCD Additional Q&A",
+      "category": "prototype_elements"
+    },
+    {
+      "id": 34,
+      "question": "How do we avoid falling in love with our own ideas during the design process?",
+      "answer": "It's easy to confuse a good idea with the right idea. So ask yourself often: Are we designing for people's needs, or to prove we're clever? Stay close to the user. Invite critique. Let ideas go gracefully --- especially the ones you're most attached to. That's not failure. That's growth.",
+      "source": "HCD Additional Q&A",
+      "category": "idea_attachment"
+    },
+    {
+      "id": 35,
+      "question": "How can we make sure that children and young people are truly involved in co-design processes?",
+      "answer": "Involvement is more than asking for opinions --- it's sharing authorship. Ask: Do they help define the problem, not just react to our ideas? Are their voices shaping decisions, not just decorating the process? Real participation requires time, trust, and the willingness to be surprised.",
+      "source": "HCD Additional Q&A",
+      "category": "youth_involvement"
+    },
+    {
+      "id": 36,
+      "question": "How can we adapt the HCD process when time is limited?",
+      "answer": "HCD is flexible --- but integrity matters. So ask: What's the minimum we can do to genuinely hear from the people we're designing with? Cut steps, not purpose. Even a quick interview or a simple prototype can shift the direction --- if done with intention.",
+      "source": "HCD Additional Q&A",
+      "category": "time_constraints"
+    },
+    {
+      "id": 37,
+      "question": "What if a solution works technically, but users don't connect with it emotionally?",
+      "answer": "Then it's not the right solution --- yet. Function without feeling is fragile. Ask: Where did we miss the story? What matters to them that we didn't build in? A redesign might mean less polish, more meaning. Start from empathy, not just engineering.",
+      "source": "HCD Additional Q&A",
+      "category": "emotional_connection"
+    },
+    {
+      "id": 38,
+      "question": "How do we deal with power dynamics inside a design team or co-creation space?",
+      "answer": "Power doesn't disappear because you say \"we're all equal here.\" It shows up in who speaks, who gets interrupted, who decides. Make it visible. Rotate roles. Invite the quietest voice first. Ask: Whose perspective is missing? Who's allowed to disagree --- and be heard?",
+      "source": "HCD Additional Q&A",
+      "category": "team_power_dynamics"
+    },
+    {
+      "id": 39,
+      "question": "What might you do to assist your educators to be a successful design team?",
+      "answer": "As a school leader, you can assist your educators by creating the enabling conditions they need to engage fully in the design challenge. This includes protecting dedicated time for team meetings, reducing administrative burdens where possible, and showing enthusiasm and support for the innovation process. You can also connect them with relevant resources, provide encouragement when challenges arise, and model the mindsets of human-centred design --- especially listening with empathy and staying open to new ideas.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "leadership_support"
+    },
+    {
+      "id": 40,
+      "question": "How might you support the work of the design team with their day-to-day responsibilities?",
+      "answer": "One of the most effective ways to support design teams is by helping manage their workload. This might include arranging classroom cover during fieldwork activities, redistributing some non-teaching duties temporarily, or adjusting timetables to allow joint planning time. Another option is to advocate for the design team's work with other stakeholders (e.g., parents, district officials) to build understanding and buy-in, reducing external pressures.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "workload_management"
+    },
+    {
+      "id": 41,
+      "question": "When are ideal times in your schedule that you can support your design teams in the design work?",
+      "answer": "Ideal times might include the start or end of the school day, during staff meetings, or during professional development slots. As a leader, being available for regular check-ins --- even brief ones --- helps create continuity. You can use these moments to listen to progress, remove obstacles, and celebrate milestones.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "scheduling_support"
+    },
+    {
+      "id": 42,
+      "question": "What might be some of the advantages if you participated on the design team?",
+      "answer": "Participating on the design team can offer multiple advantages. It signals strong leadership commitment to innovation and allows you to experience the process first-hand. You gain deeper insight into challenges your educators face, and can offer perspective on feasibility, resource planning and alignment with school goals. Your presence can also accelerate decision-making when needed.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "leadership_participation_benefits"
+    },
+    {
+      "id": 43,
+      "question": "What might be some of the challenges if you participated on the design team?",
+      "answer": "One challenge is the power dynamic: educators might feel inhibited or defer to your authority, especially in hierarchical school cultures. This could limit honest discussion or risk-taking --- both of which are essential in human-centred design. It may also be difficult to fully engage as a team member if you're frequently pulled away for leadership responsibilities.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "leadership_participation_challenges"
+    },
+    {
+      "id": 44,
+      "question": "Who are some educators you would like to participate on a design team?",
+      "answer": "Think about colleagues who are open-minded, curious, collaborative and resilient. These might include teachers who ask deep questions in meetings, who connect easily with students and families, or who have shown creativity in previous projects. Diversity of experience is also key --- new teachers, experienced educators, those who grew up locally and those who bring other perspectives.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "team_selection"
+    },
+    {
+      "id": 45,
+      "question": "What are the mindsets that these people represent?",
+      "answer": "They likely embody several human-centred design mindsets, such as: Empathy and active listening, Willingness to explore before judging, Seeing constraints as opportunities, Comfort with ambiguity, Openness to feedback, A desire to co-create, not work in isolation. These mindsets are the foundation for effective collaboration, and help ensure the process remains inclusive and learner-focused.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "design_mindsets"
+    },
+    {
+      "id": 46,
+      "question": "What are some strengths at your school that will aid the design team?",
+      "answer": "You might highlight strong collegial relationships, openness to professional learning, previous experience with innovation or project-based learning, or a supportive parent community. Perhaps your school has a culture of reflection and shared responsibility, or existing platforms for cross-grade collaboration. These assets can be powerful levers for success in a design process.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "school_strengths"
+    },
+    {
+      "id": 47,
+      "question": "What are some challenges at your school that your design team might face?",
+      "answer": "Common challenges include time constraints, limited resources, staff turnover, or resistance to change. Educators may feel stretched or hesitant to try something new without guaranteed results. There may also be systemic pressures (e.g., exams or curriculum mandates) that make it hard to prioritise experimentation. Identifying these challenges early allows you to plan around them --- for example, by building in flexibility or advocating for the process to district officials.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "school_challenges"
+    },
+    {
+      "id": 48,
+      "question": "Who are members of your community (outside your school) who might want to participate in the design challenge?",
+      "answer": "Consider parents, local business owners, religious leaders, youth mentors, alumni or community organisers who care deeply about children's learning. These individuals often bring invaluable lived experience and practical insights. You could also reach out to NGOs, health workers or social services partners who understand local challenges. Including external voices makes the process richer and more grounded.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "community_engagement"
+    },
+    {
+      "id": 49,
+      "question": "When will be a good time for your design team(s) to regularly work on the design challenge?",
+      "answer": "This will depend on your school's rhythm, but options include after school hours, dedicated PD days, or blocked times during quieter terms. Some schools succeed by creating \"design sprints\" --- focused working periods over a few days. Others embed the challenge into existing team meetings. The key is consistency: even short but regular sessions build momentum.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "design_scheduling"
+    },
+    {
+      "id": 50,
+      "question": "How will your Educators connect with you and their Aga Khan Foundation facilitator for support and feedback?",
+      "answer": "Options include weekly debriefs, messaging groups, shared digital folders, or structured reflection journals. The important thing is to create open and low-barrier channels of communication. You could establish a standing 15-minute check-in with team leads or schedule milestone reviews after each phase. Encourage a culture where asking for help is welcomed.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "communication_channels"
+    },
+    {
+      "id": 51,
+      "question": "When and how often will you check in about their progress?",
+      "answer": "A suggested rhythm is once every two weeks, aligned with key phase transitions in the toolkit. These check-ins can be brief, but structured: What's going well? What's stuck? What support is needed? Even a quick verbal check during corridor conversations can make a difference. For major milestones (e.g. prototyping or testing), a more formal review session may be helpful.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "progress_monitoring"
+    },
+    {
+      "id": 52,
+      "question": "What other structure or guidance will you need to provide for your design teams to be successful with the design challenge?",
+      "answer": "You may need to clarify expectations around time commitments, support logistics (e.g. classroom cover), and how design work aligns with school priorities. You could offer templates for documentation, help track progress, or invite external guests to give feedback. Don't underestimate the power of small rituals --- like a launch meeting or celebration --- to build motivation.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "structural_support"
+    },
+    {
+      "id": 53,
+      "question": "How might you and your design team(s) leverage this design challenge to overcome inequities at your school and ensure that everyone has what she or he needs to survive and thrive?",
+      "answer": "Start by intentionally including voices that are often unheard --- for example, students with learning difficulties, families from marginalised groups, or girls in STEM subjects. Use the PROMISE data to spot gaps and patterns, then guide your team to ask why those disparities exist. Design solutions that respond directly to these root causes. You can also model equity yourself --- by ensuring fair access to roles in the team, offering support where needed, and advocating for solutions that prioritise those most affected.",
+      "source": "HCD Toolkit - School Leaders",
+      "category": "equity_implementation"
+    },
+    {
+      "id": 54,
+      "question": "What is the most important insight you gained during this phase of the design challenge?",
+      "answer": "The most important insight I gained is that truly understanding the students' experiences requires listening with empathy --- not just interpreting data. Hearing directly from learners, their families, and other educators helped me realise that the root causes of learning gaps are often hidden beneath surface-level issues. For example, low engagement might stem not from disinterest, but from lack of relevance or emotional safety in the classroom. This phase taught me that the design challenge is not just about solving problems, but about learning how to see them differently.",
+      "source": "HCD Toolkit - Educators",
+      "category": "key_insights"
+    },
+    {
+      "id": 55,
+      "question": "About which part of this phase of the design challenge do you feel most confident?",
+      "answer": "I feel most confident in my ability to work collaboratively with my colleagues. Our team was able to share different perspectives, build on each other's ideas, and stay open to feedback. This sense of trust and mutual respect gave me confidence that we can handle ambiguity and complexity together. I also felt confident using the toolkit --- the structure of the tools helped keep us focused and productive without being too rigid.",
+      "source": "HCD Toolkit - Educators",
+      "category": "confidence_areas"
+    },
+    {
+      "id": 56,
+      "question": "About which part of this phase of the design challenge do you feel least confident? What is your team going to do to improve your confidence about this phase?",
+      "answer": "I felt least confident when analysing the quantitative data. Although the PROMISE app was helpful, I wasn't always sure how to interpret patterns or what conclusions to draw. Sometimes it was difficult to distinguish correlation from causation, or to know which subgroup comparisons were most meaningful. To improve our confidence, our team plans to invite the school's data coordinator to help us unpack the findings and explore them together. We're also going to triangulate data with qualitative interviews to make better sense of the story behind the numbers.",
+      "source": "HCD Toolkit - Educators",
+      "category": "improvement_areas"
+    },
+    {
+      "id": 57,
+      "question": "What was the most difficult part to collaborate on for your team?",
+      "answer": "The most difficult part was agreeing on which problem to prioritise. We each brought different classroom experiences and naturally focused on different issues. It took time to align around a shared challenge that felt both urgent and within our capacity to address. We overcame this by returning to the voices of stakeholders --- especially students --- and reminding ourselves of the bigger picture: improving holistic learning outcomes in a way that is equitable and meaningful.",
+      "source": "HCD Toolkit - Educators",
+      "category": "collaboration_challenges"
+    },
+    {
+      "id": 58,
+      "question": "How can you improve how your team works together in the next phase?",
+      "answer": "To improve our teamwork, we plan to assign clearer roles based on each member's strengths. For example, one person will coordinate scheduling, another will lead documentation, and others will guide specific activities. We're also introducing short reflection check-ins at the end of each meeting to surface any tensions early. More importantly, we want to stay committed to the HCD mindsets --- especially deferring judgement, staying curious, and seeing feedback as a gift. These values will help us work better as a team through the more challenging phases to come.",
+      "source": "HCD Toolkit - Educators",
+      "category": "team_improvement"
+    },
+    {
+      "id": 59,
+      "question": "What mindsets are you most comfortable with?",
+      "answer": "I feel most comfortable with empathy and collaboration. Listening deeply to others --- especially students --- comes naturally to me as a teacher, and I enjoy working in a team where everyone's voice matters. I also find comfort in the \"start small to make big changes\" mindset, because it reminds me that small, thoughtful actions can lead to meaningful impact. That said, I want to stretch myself more with idea generation and prototyping --- being bolder, faster, and more experimental without fear of failure.",
+      "source": "HCD Toolkit - Educators",
+      "category": "mindset_comfort"
+    },
+    {
+      "id": 60,
+      "question": "Define one of the holistic learning outcomes you selected in 2-3 sentences.",
+      "answer": "Critical thinking means helping learners reflect deeply on their learning experiences, their values, and their beliefs. It includes asking thoughtful questions, challenging assumptions, and using evidence to make informed decisions. For 10-year-olds, this could involve solving classroom problems or discussing different viewpoints in group activities.",
+      "source": "HCD Toolkit - Facilitators",
+      "category": "learning_outcomes_definition"
+    },
+    {
+      "id": 61,
+      "question": "What observable behaviours would indicate improvement in this holistic learning outcome?",
+      "answer": "Observable behaviours might include students listening actively to their peers without interrupting, showing concern when someone is upset, or trying to understand different perspectives in group work. You might also observe more inclusive behaviour, like making sure everyone has a voice during discussions or helping peers who are struggling.",
+      "source": "HCD Toolkit - Facilitators",
+      "category": "observable_behaviors"
+    },
+    {
+      "id": 62,
+      "question": "Is there an assessment that currently exists that would measure these behaviours? If not, what ideas do you have for how to assess this holistic learning outcome based on the observable behaviours?",
+      "answer": "There may not be a formal or standardised assessment for empathy, but schools can use simple, context-relevant tools such as observation checklists, peer feedback forms, or student journals. One practical idea is to use short role-play scenarios followed by self- and peer-reflection prompts. Educators can also conduct structured interviews or discussions with learners, asking how they felt or what they noticed in situations requiring empathy. These methods provide qualitative insights into students' growth over time.",
+      "source": "HCD Toolkit - Facilitators",
+      "category": "assessment_methods"
+    }
+  ]
+}
