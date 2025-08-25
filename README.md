@@ -32,8 +32,4 @@ def ask_hcd_expert(question):
                            json={"message": question})
     return response.json()["response"]
 
-# Use it
-answer = ask_hcd_expert("Question?")
-print(answer)
 
-Javascript:
