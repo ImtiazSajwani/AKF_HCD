@@ -1,5 +1,5 @@
 # AKF_HCD
-AKF Human Center Design Teacher model 
+AKF Human Center Design AI-Teacher model in English & Portuguese
 
 Minimum of 16GB of Nvidia GPU memory is required, it will run on CPU but will be extremely slow!!!
 
