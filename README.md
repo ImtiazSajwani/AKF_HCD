@@ -1,12 +1,12 @@
 # AKF_HCD
-AKF Human Center Design Teacher model 
+AKF Human Center Design AI-Teacher model in English & Portuguese
 
 Minimum of 16GB of Nvidia GPU memory is required, it will run on CPU but will be extremely slow!!!
 
 This simple API server lets any chat application talk to your trained HCD expert model. Just send a question, get expert HCD advice back!
 1. Clone the github.
-1. Install all the required modules using pip: pip -r install requirements.txt
-2. Make sure the model is located at AKF_HCD_Teacher_Model
+1. Install all the required modules using pip: pip -r install requirements.txt. 
+2. Make sure the model is located at AKF_HCD_Teacher_Model. Please email isalis09@gmail.com to get access to the model & weights.
 3. Run the server using uvicorn server 
 4. Chat API (Post the requests and get the response back)
 response = requests.post("http://localhost:8000/chat", 
@@ -32,8 +32,4 @@ def ask_hcd_expert(question):
                            json={"message": question})
     return response.json()["response"]
 
-# Use it
-answer = ask_hcd_expert("Question?")
-print(answer)
 
-Javascript:
