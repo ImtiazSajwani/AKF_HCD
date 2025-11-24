@@ -33,3 +33,5 @@ def ask_hcd_expert(question):
     return response.json()["response"]
 
 
+To access the Docker image, please email isalis09@gmail.com
+
